@@ -1,0 +1,631 @@
+fileFormatVersion: 2
+guid: b0bcf7ac0a7e8114aacfa4a206447795
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6320653551955692988
+    second: Bear Sprite Sheet_0
+  - first:
+      213: -5944142371272949995
+    second: Bear Sprite Sheet_1
+  - first:
+      213: -7037392501665209756
+    second: Bear Sprite Sheet_2
+  - first:
+      213: -8075320662409377824
+    second: Bear Sprite Sheet_3
+  - first:
+      213: -5499544389420987459
+    second: Bear Sprite Sheet_4
+  - first:
+      213: 1612017006384891974
+    second: Bear Sprite Sheet_5
+  - first:
+      213: -7732512084781080392
+    second: Bear Sprite Sheet_6
+  - first:
+      213: 8545773128320505681
+    second: Bear Sprite Sheet_7
+  - first:
+      213: 5376599118260204033
+    second: Bear Sprite Sheet_8
+  - first:
+      213: -8231214273741108567
+    second: Bear Sprite Sheet_9
+  - first:
+      213: -7373873375399509345
+    second: Bear Sprite Sheet_10
+  - first:
+      213: 4823591303682789072
+    second: Bear Sprite Sheet_11
+  - first:
+      213: -5109051101554476109
+    second: Bear Sprite Sheet_12
+  - first:
+      213: 2478310636623383283
+    second: Bear Sprite Sheet_13
+  - first:
+      213: -8653125552900330050
+    second: Bear Sprite Sheet_14
+  - first:
+      213: -6445501194292079018
+    second: Bear Sprite Sheet_15
+  - first:
+      213: 1862616887774537589
+    second: Bear Sprite Sheet_16
+  - first:
+      213: -2076211407639479740
+    second: Bear Sprite Sheet_17
+  - first:
+      213: -469164635658999174
+    second: Bear Sprite Sheet_18
+  - first:
+      213: -2233794052888619854
+    second: Bear Sprite Sheet_19
+  - first:
+      213: 3128876672127725619
+    second: Bear Sprite Sheet_20
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 113
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bear Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 264
+        width: 8
+        height: 9
+      alignment: 9
+      pivot: {x: 0.45266438, y: 0.20546468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28f5f14f29197f428c5e90d42b12c26
+      internalID: 6320653551955692988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 262
+        width: 10
+        height: 11
+      alignment: 9
+      pivot: {x: 0.4621315, y: 0.15573674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1025faa1813653d49b2c0d6efa72e163
+      internalID: -5944142371272949995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 241
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0321192cac238479a4981eb554473b
+      internalID: -7037392501665209756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 251
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386e7269c939896448af9351e4f1d09e
+      internalID: -8075320662409377824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 249
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613074fd98f11d94eb0449cb3b87f72c
+      internalID: -5499544389420987459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 181
+        width: 57
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4933564, y: 0.101375915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4dd217d7e766b7488f612c223c3e63c
+      internalID: 1612017006384891974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 233
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbafd56f331cc6d4287763ade4553813
+      internalID: -7732512084781080392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 203
+        width: 21
+        height: 21
+      alignment: 9
+      pivot: {x: 0.71639633, y: 0.22950672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb489617898230946811c01be0895940
+      internalID: 8545773128320505681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 199
+        width: 20
+        height: 21
+      alignment: 9
+      pivot: {x: 0.34852296, y: 0.2475397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab81095f0ed72043bf21c601123a5ff
+      internalID: 5376599118260204033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 121
+        width: 20
+        height: 40
+      alignment: 9
+      pivot: {x: 0.7650851, y: 0.8692268}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d751ab622831cb4da1ee8bc70b4310e
+      internalID: -8231214273741108567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 122
+        width: 48
+        height: 51
+      alignment: 9
+      pivot: {x: 0.48422146, y: 0.0841805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f219f5dc241fa3d458427bf623e089d2
+      internalID: -7373873375399509345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 124
+        width: 20
+        height: 38
+      alignment: 9
+      pivot: {x: 0.23491439, y: 0.85876304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5efcf1f0d9c564bb5c226afd44fa89
+      internalID: 4823591303682789072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 72
+        width: 31
+        height: 35
+      alignment: 9
+      pivot: {x: 0.80539775, y: 0.85705435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7152b21a2c7d54e8afa63ca468d1bb
+      internalID: -5109051101554476109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 88
+        width: 32
+        height: 27
+      alignment: 9
+      pivot: {x: 0.64201, y: 0.83661705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbf9cf666a44c54d9b317f8909e535a
+      internalID: 2478310636623383283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 87
+        width: 31
+        height: 27
+      alignment: 9
+      pivot: {x: 0.39005673, y: 0.86466837}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da74e4375afca9438d2450903a6a0da
+      internalID: -8653125552900330050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 93
+        width: 23
+        height: 17
+      alignment: 9
+      pivot: {x: 0.1377716, y: 0.8118663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e08b3c749ec86e4081b715b4679f39a
+      internalID: -6445501194292079018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 44
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.6767237, y: 0.7767381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad70adcd5348f8545844c268560ba87f
+      internalID: 1862616887774537589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 46
+        width: 28
+        height: 26
+      alignment: 9
+      pivot: {x: 0.45942608, y: 0.7767381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9a44c07b4ec81488658e99ee8e2389
+      internalID: -2076211407639479740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 52
+        width: 22
+        height: 21
+      alignment: 9
+      pivot: {x: 0.3967209, y: 0.7704962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2240361665bcdff4caf47d324142f856
+      internalID: -469164635658999174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 9
+        width: 35
+        height: 27
+      alignment: 9
+      pivot: {x: 0.7704952, y: 0.75246304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5894b509795097e488b3064508b9cab0
+      internalID: -2233794052888619854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1
+        width: 25
+        height: 35
+      alignment: 9
+      pivot: {x: 0.59088653, y: 0.75967556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd48337c1b49d7f478d82a4a452596fe
+      internalID: 3128876672127725619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
